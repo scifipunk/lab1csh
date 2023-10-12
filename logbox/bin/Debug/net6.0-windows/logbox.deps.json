@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "logbox/1.0.0": {
+        "dependencies": {
+          "WinFormsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "logbox.dll": {}
+        }
+      },
+      "WinFormsLibrary/1.0.0": {
+        "runtime": {
+          "WinFormsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "logbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

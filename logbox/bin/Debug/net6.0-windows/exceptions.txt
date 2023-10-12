@@ -1,0 +1,47 @@
+29.09.2023 16:33:30:,
+Value of '-142' is not valid for 'green'. 'green' should be greater than or equal to 0 and less than or equal to 255.,
+System.Drawing.Primitives,
+   at System.Drawing.Color.<CheckByte>g__ThrowOutOfByteRange|327_0(Int32 v, String n)
+   at System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   at System.Drawing.Color.FromArgb(Int32 red, Int32 green, Int32 blue)
+   at WinFormsLibrary.ParseIt.GenerateRandomColor(String word) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 61
+   at WinFormsLibrary...ctor(String signature, String textToParse) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 68
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 98,
+Void <CheckByte>g__ThrowOutOfByteRange|327_0(Int32, System.String)
+29.09.2023 16:45:52:,
+Value of '-64' is not valid for 'green'. 'green' should be greater than or equal to 0 and less than or equal to 255.,
+System.Drawing.Primitives,
+   at System.Drawing.Color.<CheckByte>g__ThrowOutOfByteRange|327_0(Int32 v, String n)
+   at System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   at System.Drawing.Color.FromArgb(Int32 red, Int32 green, Int32 blue)
+   at WinFormsLibrary.ParseIt.GenerateRandomColor(String word) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 61
+   at WinFormsLibrary.ParseIt..ctor(String signature, String textToParse) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 68
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 98,
+Void <CheckByte>g__ThrowOutOfByteRange|327_0(Int32, System.String)
+28.09.2023 16:38:08:,
+Value of '-8' is not valid for 'green'. 'green' should be greater than or equal to 0 and less than or equal to 255.,
+System.Drawing.Primitives,
+   at System.Drawing.Color.<CheckByte>g__ThrowOutOfByteRange|327_0(Int32 v, String n)
+   at System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   at System.Drawing.Color.FromArgb(Int32 red, Int32 green, Int32 blue)
+   at WinFormsLibrary.ParseIt.GenerateRandomColor(String word) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 61
+   at WinFormsLibrary.ParseIt..ctor(String signature, String textToParse) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 68
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form2.cs:line 98,
+Void <CheckByte>g__ThrowOutOfByteRange|327_0(Int32, System.String)
+
+System.Drawing.Primitives,
+   at System.Drawing.Color.<CheckByte>g__ThrowOutOfByteRange|327_0(Int32 v, String n)
+   at System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   at System.Drawing.Color.FromArgb(Int32 red, Int32 green, Int32 blue)
+   at WinFormsLibrary.ParseIt.GenerateRandomColor(String word) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 61
+   at WinFormsLibrary.ParseIt..ctor(String signature, String textToParse) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 68
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form2.cs:line 98,
+Void <CheckByte>g__ThrowOutOfByteRange|327_0(Int32, System.String)
+System.Drawing.Primitives,
+   at System.Drawing.Color.<CheckByte>g__ThrowOutOfByteRange|327_0(Int32 v, String n)
+   at System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   at System.Drawing.Color.FromArgb(Int32 red, Int32 green, Int32 blue)
+   at WinFormsLibrary.ParseIt.GenerateRandomColor(String word) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 61
+   at WinFormsLibrary.ParseIt..ctor(String signature, String textToParse) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\Class1.cs:line 68
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form2.cs:line 98,
+Void <CheckByte>g__ThrowOutOfByteRange|327_0(Int32, System.String)

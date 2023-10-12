@@ -1,0 +1,10 @@
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\bin\Debug\netcoreapp3.1\WinFormsLibrary.deps.json
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\bin\Debug\netcoreapp3.1\WinFormsLibrary.dll
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\bin\Debug\netcoreapp3.1\WinFormsLibrary.pdb
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.csproj.AssemblyReference.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.AssemblyInfoInputs.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.AssemblyInfo.cs
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.dll
+C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\WinFormsLibrary\obj\Debug\netcoreapp3.1\WinFormsLibrary.pdb

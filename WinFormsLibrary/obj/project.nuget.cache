@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7oYmzaLCCvhyLxa6uB0oIbNTPYFSqAmAFSH40mCAPF0S1sLvysTbX99/uUIe0uEL2dgd+4wgeKEEnEdT77N9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\WinFormsLibrary\\WinFormsLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goha7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\goha7\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\goha7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

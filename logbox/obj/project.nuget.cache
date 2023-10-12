@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KoneZpa0QwfSKXA7/AaREz4XY61DXVV4NnsIbpB/JlMtbx/DsnSZDyqhsIqc70mcDll66YR66pfXLYh49aFkPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\logbox\\logbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goha7\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

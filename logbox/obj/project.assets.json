@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "WinFormsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WinFormsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WinFormsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WinFormsLibrary/WinFormsLibrary.csproj",
+      "msbuildProject": "../WinFormsLibrary/WinFormsLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "WinFormsLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\goha7\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\logbox\\logbox.csproj",
+      "projectName": "logbox",
+      "projectPath": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\logbox\\logbox.csproj",
+      "packagesPath": "C:\\Users\\goha7\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\logbox\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\goha7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\WinFormsLibrary\\WinFormsLibrary.csproj": {
+              "projectPath": "C:\\Users\\goha7\\Desktop\\prog\\timp\\5 sem timp\\repos\\WinFormsLibrary\\WinFormsLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x86",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

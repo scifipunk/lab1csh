@@ -1,0 +1,29 @@
+26.09.2023 20:06:11:,
+Index was outside the bounds of the array.,
+logbox,
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 78,
+Void btnHighlight_Click(System.Object, System.EventArgs)
+
+27.09.2023 21:06:11:,
+Index was outside the bounds of the array.,
+logbox,
+   at logbox.Form2.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 78,
+Void btnHighlight_Click(System.Object, System.EventArgs)
+
+27.09.2023 22:06:11:,
+Index was outside the bounds of the array.,
+logbox,
+   at logbox.Form1.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 78,
+Void btnHighlight_Click(System.Object, System.EventArgs)
+
+27.09.2023 22:06:11:,
+Index was outside the bounds of the array.,
+logbox,
+   at logbox.Form3.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 78,
+Void btnHighlight_Click(System.Object, System.EventArgs)
+
+27.09.2023 22:06:11:,
+Index was outside the bounds of the array.,
+logbox,
+   at logbox.Form3.dataGridView_Click(Object sender, EventArgs e) in C:\Users\goha7\Desktop\prog\timp\5 sem timp\repos\logbox\Form1.cs:line 78,
+Void btnHighlight_Click(System.Object, System.EventArgs)
